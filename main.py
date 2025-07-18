@@ -71,7 +71,7 @@ for x in range(page_length):
         )
         time.sleep(3)  # 少しだけ余裕をもたせる
         
-        ＯＫ！！！！！！
+        ＯＫ！！！！！！　でもやっぱり怪しい
 # for x in range(page_length):
 #     old_address = driver.find_elements(By.CLASS_NAME, "jigyosyoAddress")
     
